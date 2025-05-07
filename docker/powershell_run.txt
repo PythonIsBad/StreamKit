@@ -1,2 +1,0 @@
-docker build -t server_app .
-docker run -p 55000-55003:55000-55003/udp -it --rm server_app
